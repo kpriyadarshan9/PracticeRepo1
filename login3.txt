@@ -1,5 +1,5 @@
 body{
-  background: #50C7C8 !important;
+  background: #50C7C6 !important;
 }
 
 .cred{
